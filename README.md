@@ -1,9 +1,7 @@
-<ul>{% for post in site.posts %}<li><a href="{{ post.url }}">{{ post.title }}</a></li>{% endfor %}</ul>
-
 ![wtf](/assets/kai(2).jpg)
 
 
-## Willkommen auf meinem Blog
+## Hi, mein Name ist Kai ...
 
 Ich bin Freelancer und täglich unterwegs im Sinne von Webentwicklung, SEO, Sichtbarkeit im Netz, Design und Web-Funktionen bez. WordPress, CSS, HTML. 
 
