@@ -9,7 +9,7 @@ Ich bin Freelancer und täglich unterwegs im Sinne von Webentwicklung, SEO, Sich
 
 Hier ein Einblick in meine Freelance Aktivitäten auf Fiverr: [Kainer auf Fiverr](https://www.fiverr.com/kainer).
 
-Für Kontaktaufnahme siehe [sfw-media](https://sfw-media.de/kontakt-aufnehmen/)
+Für verschlüsselte Kontaktaufnahme via PGP-Key siehe [sfw-media](https://sfw-media.de/kontakt-aufnehmen/)
 
 
 ### Privat:
