@@ -1,6 +1,11 @@
+<ul>{% for post in site.posts %}<li><a href="{{ post.url }}">{{ post.title }}</a></li>{% endfor %}</ul>
+
+![wtf](/assets/kai(2).jpg)
+
+
 ## Willkommen auf meinem Blog
 
-Ich bin Freeelancer und täglich unterwegs im Sinne von Webentwicklung, SEO, Sichtbarkeit im Netz, Design und Web-Funktionen bez. WordPress, CSS, HTML. 
+Ich bin Freelancer und täglich unterwegs im Sinne von Webentwicklung, SEO, Sichtbarkeit im Netz, Design und Web-Funktionen bez. WordPress, CSS, HTML. 
 
 Hier ein Einblick in meine Freelance Aktivitäten auf Fiverr: [Kainer auf Fiverr](https://www.fiverr.com/kainer).
 
