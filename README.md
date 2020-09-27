@@ -21,7 +21,7 @@ Großer Fan der Bitcoin Technologie, Kampfkunst, Waldläufen, 3D-Druck
 
 - Webprojekte sammeln
 - Portfolio ausbauen
-  - Freealance Projekte
+  - Freelance Projekte
   - sfw-media Projekte
 - Aufarbeitung
 - Kommunikation
