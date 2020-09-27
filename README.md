@@ -1,4 +1,4 @@
-## Willkommen auf meinem github Blog
+## Willkommen auf meinem Blog
 
 Ich bin Freelancer und täglich unterwegs im Sinne von Webentwicklung, SEO, Sichtbarkeit im Netz, Design und Web-Funktionen bez. WordPress, CSS, HTML. Hier ein Einblick in meine Freelance Aktivitäten auf Fiverr: [Kainer auf Fiverr](https://www.fiverr.com/kainer).
 
