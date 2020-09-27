@@ -21,6 +21,7 @@ Großer Fan der Bitcoin Technologie, Kampfkunst, Waldläufen, 3D-Druck
 - Kommunikation
 
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Kontakt
+
+Einfach erreichbar via [Twitter](https://twitter.com/kainerweissmann) oder [E-Mail](mailto:kai@kwman.de).
