@@ -1,3 +1,11 @@
 theme: jekyll-theme-minimal
 title: Kainers Blog
 description: Die Besonderheiten des normalen Tagesablaufs eines Freelancers
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
